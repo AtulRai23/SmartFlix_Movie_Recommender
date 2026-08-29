@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+data/ml-latest-small/*.csv
+models/*.npz
+outputs/
